@@ -100,8 +100,8 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/HP_Bot_discuss_group)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Hp_botupdate)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/dlsupport2022)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/+yqUvOgIv5OUwODZl)
 
 ## Credits 
 * [![Allu Arjun-Devs](https://img.shields.io/static/v1?label=Alluarjun&message=devs&color=critical)](https://telegram.dog/helloalluarjun)
