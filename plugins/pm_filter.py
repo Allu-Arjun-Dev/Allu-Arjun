@@ -61,7 +61,6 @@ async def give_filter(client,message):
                         )
                 except Exception as e:
                     print(e)
-                break time
 
     else:
         await auto_filter(client, message)   
