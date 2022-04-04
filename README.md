@@ -2,7 +2,7 @@
   <img src="assets/IMDB_HPBOT.jpg" alt="Allu Arjun Bot Logo">
 </p>
 <h1 align="center">
-  <b>IMBD_HP Bot</b>
+  <b>Allu Arjun Bot</b>
 </h1>
 
 
@@ -104,7 +104,7 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Hp_botupdate)
 
 ## Credits 
-* [![EvaMaria_HP-Devs](https://img.shields.io/static/v1?label=Mrkiller&message=devs&color=critical)](https://telegram.dog/Mrkiller_1109)
+* [![Allu Arjun-Devs](https://img.shields.io/static/v1?label=Alluarjun&message=devs&color=critical)](https://telegram.dog/helloalluarjun)
 
 
 ## Thanks to 
