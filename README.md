@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/IMDB_HPBOT.jpg" alt="IMDB BOT Logo">
+  <img src="assets/IMDB_HPBOT.jpg" alt="Allu Arjun Bot Logo">
 </p>
 <h1 align="center">
   <b>IMBD_HP Bot</b>
